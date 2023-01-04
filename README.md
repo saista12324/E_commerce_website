@@ -1,2 +1,2 @@
 # E_commerce_website
-MERN peoject
+MERN project
